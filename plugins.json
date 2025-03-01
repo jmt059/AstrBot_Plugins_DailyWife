@@ -400,7 +400,7 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
   },
   "astrbot_plugin_DailyWife": {
-    "desc": "每日老婆插件，请配置NapCat！！",
+    "desc": "每日老婆插件，随机抽取群友结婚。请配置NapCat！！",
     "author": "jmt059",
     "repo": "https://github.com/jmt059/DailyWife"
   },
